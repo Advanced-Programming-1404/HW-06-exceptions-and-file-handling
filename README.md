@@ -169,8 +169,8 @@ Before submitting:
 
 # Additional Resources 📚
 
-## TA Explanations
-- 
+## Assignment Explanation Videos
+- https://drive.meshcomp.ir/d/15b6b853da8d4ade97de/
 
 ## Java File Handling
 - https://docs.oracle.com/javase/tutorial/essential/io/
