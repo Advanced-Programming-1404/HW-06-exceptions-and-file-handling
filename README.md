@@ -172,20 +172,5 @@ Before submitting:
 ## Assignment Explanation Videos
 - https://drive.meshcomp.ir/d/15b6b853da8d4ade97de/
 
-## Java File Handling
-- https://docs.oracle.com/javase/tutorial/essential/io/
-
-## Java Exceptions
-- https://docs.oracle.com/javase/tutorial/essential/exceptions/
-
-## Scanner Class
-- https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
-
-## Try-Catch in Java
-- https://www.w3schools.com/java/java_try_catch.asp
-
-## Git Branching
-- https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
-
-## CSV Basics
-- https://en.wikipedia.org/wiki/Comma-separated_values
+## Exception and Files Workshop 
+- https://git.meshcomp.ir/AdvancedProgramming1404/WS-05-exceptions-and-file-handling/
