@@ -170,7 +170,7 @@ Before submitting:
 # Additional Resources 📚
 
 ## Assignment Explanation Videos
-- https://drive.meshcomp.ir/d/15b6b853da8d4ade97de/
+- [Link](https://drive.google.com/drive/folders/1Z4KbpUeCsOjSS20GEnJak46hS-Rgyf80?usp=drive_link)
 
 ## Exception and Files Workshop 
 - https://git.meshcomp.ir/AdvancedProgramming1404/WS-05-exceptions-and-file-handling/
